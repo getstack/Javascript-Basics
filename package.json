@@ -1,0 +1,23 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js --live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getstack/Javascript-Basics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getstack/Javascript-Basics/issues"
+  },
+  "homepage": "https://github.com/getstack/Javascript-Basics#readme",
+  "dependencies": {
+    "budo": "^11.5.0",
+    "watchify": "^3.11.0"
+  }
+}
